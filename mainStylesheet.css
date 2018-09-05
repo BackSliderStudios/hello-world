@@ -1,0 +1,16 @@
+#topBanner{
+position: fixed;
+background-color:grey;
+}
+
+#scrollArea{
+position: relative;
+background-color:lightgrey;
+
+}
+
+#bottomBanner{
+position: fixed;
+background-color:grey;
+
+}
